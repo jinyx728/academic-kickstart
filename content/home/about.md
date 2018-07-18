@@ -27,9 +27,9 @@ weight = 5
 #  year = 2009
 
 [[education.courses]]
-  course = "BEng in Software Engineering"
+  course = "B.Eng. in Software Engineering"
   institution = "Shanghai Jiao Tong University"
- 
+  year = "2019"
 +++
 
 # Biography
