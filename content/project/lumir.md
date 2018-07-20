@@ -29,7 +29,7 @@ image = ""
 caption = ""
 
 +++
-Lumir is the course project of SE342-Computer-Vision. It is written in C++, using Qt framework.
+Lumir is the course project of *SE342-Computer Vision*. It is written in C++, using Qt framework.
 
 Lumir provides various image processing algorithms. **All of the algorithms are written by myself**, without using libraries like OpenCV. Supported algorithms are listed below:
 

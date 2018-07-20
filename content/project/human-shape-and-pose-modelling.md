@@ -1,6 +1,6 @@
 +++
-title = "Rainforest Classification"
-date = 2018-07-18T20:00:12+08:00
+title = "Human Shape and Pose Modelling"
+date = 2018-07-18T19:35:12+08:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,10 +8,10 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Multi-label morphological classification of amazon rainforest via satellite data."
+summary = "Simultaneous visual recovery of 3D human pose and shape."
 
 # Optional image to display on homepage.
-image_preview = "rainforest.png"
+image_preview = "human-shape.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
