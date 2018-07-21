@@ -35,5 +35,5 @@ Cartoon image modelling is an interesting topic both in academia and industry. O
 
 We decide to add semantic information to the modelling process. First, we do semantic classification and segmentation to the cartoon image, using a customized deep neural network trained on a dataset we built. Then, we model the image using classification and segmentation information, and generate skeleton (with limbs and joints) automatically. Finally, we attach pre-defined animation and sound to make the character move and dance.
 
-This research project is still in progress. We have built a cartoon image dataset and a DNN-based semantic classification system. See ToonNet for detail. we are currently experimenting modelling the cartoon image interactively using classfication and segmentation information.
+This research project is still in progress. We have built a cartoon image dataset and a DNN-based semantic classification system. See [*ToonNet: A cartoon image dataset and a DNN-based semantic classification system*](/) for detail. we are currently experimenting modelling the cartoon image interactively using classfication and segmentation information.
 

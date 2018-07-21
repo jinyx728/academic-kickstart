@@ -29,3 +29,12 @@ image = ""
 caption = ""
 
 +++
+
+This project includes an NPR shader and an NPR filer. These two algorithms developed by myself are directly used to augment the *ToonNet* dataset.
+
+The NPR shader consists of two steps. First, it applies a shader similar to Blinn-Phong to the model. The shader calculates the ambient and diffuse color, and apply Half Lambert to the diffuse term. It also samples a 1D ramp texture using diffuse color, and multiply the sampled grayscale color to the output. Then, the shader postprocesses the shaded model using Sobel operator, which depicts the contour and makes the final image more realistic.
+
+The NPR filter can change a common cartoon image to a hand-drawn style image. First it apply pencil or crayon textures to the grayscale cartoon image using [Lu's method](http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm). Then it maps the color back using a certain equation. After mapping, the grayscale texture can be directly applied to the cartoon image
+according to the color.
+
+These two algorithms are successful to augment the *ToonNet* dataset. To learn these algorithms further, see [*ToonNet: A cartoon image dataset and a DNN-based semantic classification system*](/).
