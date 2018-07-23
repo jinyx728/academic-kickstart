@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Interactive cartoon image modelling using semantic information."
+summary = "An interactive cartoon image modelling system via AR."
 
 # Optional image to display on homepage.
 image_preview = "cartoon-model.png"

@@ -1,5 +1,5 @@
 +++
-title = "Computer System Labs"
+title = "System and Software"
 date = 2018-07-18T19:10:00+08:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "All of the computer system related labs I've done. Click for detail."
+summary = "System and software related courses and labs."
 
 # Optional image to display on homepage.
 image_preview = "system-labs.gif"
@@ -29,7 +29,11 @@ image = ""
 caption = ""
 
 +++
-This page lists all of the labs I've done in several computer system courses. I get **full score** on almost every lab. See below for detail.
+This page lists all of the labs I've done in several computer system courses. I get **full score** on almost every lab. 
+It also lists all the software engineering related courses I've taken.
+See below for detail.
+
+### Computer system related courses and labs
 
 *SE101-Introduction to Computer Systems I*:
 
@@ -66,3 +70,13 @@ This page lists all of the labs I've done in several computer system courses. I 
 * Lab4: Preemptive Multitasking **(100/100)**
 * Lab5: File System **(100/100)**
 * Lab6: Network Driver **(100/100)**
+
+### Software engineering related courses
+
+*SE230-Software Engineering*
+
+*SE213-Software Testing*
+
+*SE228-Technology for Web Developing*
+
+*SE231-Course Exercise of Project Management and Software Development*
