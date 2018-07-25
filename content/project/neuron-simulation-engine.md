@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "An interactive VR application that simulates nerve impulse and inhibition."
+summary = "An interactive VR software that simulates nerve impulse and inhibition."
 
 # Optional image to display on homepage.
 image_preview = "neuron-simulation.png"
@@ -29,7 +29,7 @@ image = ""
 caption = ""
 
 +++
-Neuron simulation engine is the course project of *SE341-Game Designing and Programming*. We develop this engine using Unity and C# language.
+Neuron simulation engine is the course project of *SE341-Game Designing and Programming*. We developed this engine using Unity and C# language.
 
 This simulation engine allows user to create and delete neurons and build a neural network via HTC Vive headset. It can also simulate the process of nerve impulse and inhibition. Detailed features are listed below:
 

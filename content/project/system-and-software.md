@@ -29,11 +29,11 @@ image = ""
 caption = ""
 
 +++
-This page lists all of the labs I've done in several computer system courses. I get **full score** on almost every lab. 
+This page lists all of the labs I've done in several computer system courses. I got **full score** on almost every lab. 
 It also lists all the software engineering related courses I've taken.
 See below for detail.
 
-### Computer system related courses and labs
+## **Computer system related courses and labs**
 
 *SE101-Introduction to Computer Systems I*:
 
@@ -71,7 +71,7 @@ See below for detail.
 * Lab5: File System **(100/100)**
 * Lab6: Network Driver **(100/100)**
 
-### Software engineering related courses
+## **Software engineering related courses**
 
 *SE230-Software Engineering*
 
@@ -80,3 +80,5 @@ See below for detail.
 *SE228-Technology for Web Developing*
 
 *SE231-Course Exercise of Project Management and Software Development*
+
+*SE343-Enterprise System Architecture* (auditor)

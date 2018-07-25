@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Computer Graphics",
-    "Computer Vision"
+    "Computer Vision",
+    "Data Mining"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,7 +36,7 @@ weight = 5
 
 I am an undergraduate at [School of Software](http://www.se.sjtu.edu.cn), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). I am currently a research assistant at [Digital ART Lab](http://dalab.se.sjtu.edu.cn/www/home/), advised by [Xubo Yang](http://dalab.se.sjtu.edu.cn/www/home/?page_id=17). I was a research assistant at [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/english.html), [Zhejiang University](http://www.zju.edu.cn/english/), co-advised by [Weiwei Xu](http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm) and [Huamin Wang](http://web.cse.ohio-state.edu/~wang.3602/index.html).
 
-My research interest includes computer graphics and computer vision. I'm also interested in developing varoius types of software and system.
+My research interest includes computer graphics, computer vision and data mining. I'm also interested in developing varoius types of software and system.
 
 Here is my CV.
 

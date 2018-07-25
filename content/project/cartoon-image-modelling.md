@@ -29,7 +29,7 @@ image = ""
 caption = ""
 
 +++
-I do this research project at [Digital ART Lab](http://dalab.se.sjtu.edu.cn/www/home/), advised by [Xubo Yang](http://dalab.se.sjtu.edu.cn/www/home/?page_id=17).
+I'm doing this research project at [Digital ART Lab](http://dalab.se.sjtu.edu.cn/www/home/), advised by [Xubo Yang](http://dalab.se.sjtu.edu.cn/www/home/?page_id=17).
 
 Cartoon image modelling is an interesting topic both in academia and industry. Once this technique becomes mature, children can easily model their hand-drawn cartoon character and see their character move and dance vividly via an AR application. However, current modelling method simply dilates the image to a 3D model and adds an NPR shader, which only works on limited cartoon images and requires manual configuration of joints of the character.
 
