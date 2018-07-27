@@ -71,14 +71,23 @@ See below for detail.
 * Lab5: File System **(100/100)**
 * Lab6: Network Driver **(100/100)**
 
-## **Software engineering related courses**
+## **Software engineering related courses and projects**
 
 *SE230-Software Engineering*
 
+* project: Software design document (**SDD**) of textbook reservation system.
+
 *SE213-Software Testing*
+
+* projects: Black box and white box test using **JUnit**; GUI test using **Selenium**; Performance test using **JMeter**.
 
 *SE228-Technology for Web Developing*
 
+* project: An online book store based on **JQuery**, **Struts**, **Spring** and **Hibernate**.
+
 *SE231-Course Exercise of Project Management and Software Development*
 
+* project: A textbook reservation system based on **React**, **SpringMVC** and **Hibernate**.
+
 *SE343-Enterprise System Architecture* (auditor)
+
