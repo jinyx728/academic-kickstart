@@ -39,3 +39,5 @@ This simulation engine allows user to create and delete neurons and build a neur
 * Correctly simulates the effects of any neural networks in real-time, such as which effectors or neurons are excited and which are not. The conduction process of nerve impulses is visualized during the simulation.
 * Allows real-time magnification observation of a neuron's axons, using particles to simulate the microscopic process of axons' nerve impulse conduction (substance exchange of sodium and potassium ions after nerve impulses pass).
 * Allows real-time magnification observation of the peripheral branches/lateral branches of a neuron, using particles to simulate the microscopic processes of neurotransmitter transmission (neurotransmitters are produced from the peripheral branches/lateral branches, diffuse and bind to the next neuron)
+
+**Skills involved: C#, Unity**

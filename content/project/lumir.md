@@ -51,3 +51,5 @@ Lumir provides various image processing algorithms. **All of the algorithms are 
 * Watershed algorithm
 
 [Github link](https://github.com/jinyx728/SE342-Computer-Vision) for source code.
+
+**Skills involved: C++, Qt, OpenCV(no algorithms used)**

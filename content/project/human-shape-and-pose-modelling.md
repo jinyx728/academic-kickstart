@@ -39,3 +39,5 @@ We developed a system that automatically generate a 3D human model with pose and
 * measure the BWH of the human model, and calculate the BWH of the person using the plotting scale.
 
 I am the **team leader** of this project.
+
+**Skills involved: Python, Caffe, OpenPose, SMPLify**

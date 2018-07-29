@@ -37,3 +37,5 @@ We decide to add semantic information to the modelling process. First, we do sem
 
 This research project is still in progress. We have built a cartoon image dataset and a DNN-based semantic classification system. See [*ToonNet: A cartoon image dataset and a DNN-based semantic classification system*](/) for detail. we are currently experimenting modelling the cartoon image interactively using classfication and segmentation information.
 
+**Skills involved: Python/Matlab/C#, Unity, Tensorflow**
+
