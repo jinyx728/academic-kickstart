@@ -183,7 +183,8 @@ enableGitInfo = false
     'Report',  # 4
     'Book',  # 5
     'Book section',  # 6
-    'Thesis'  # 7
+    'Thesis',  # 7
+    'Preprint' # 8 
   ]
 
   # Configuration of talk pages.
@@ -249,10 +250,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/CV_Yongxu JIN.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

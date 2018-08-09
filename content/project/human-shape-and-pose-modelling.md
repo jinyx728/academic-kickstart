@@ -29,7 +29,7 @@ image = ""
 caption = ""
 
 +++
-This research project is the PRP research project of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). I did this project at [VisionLab](http://www.visionlab.sjtu.edu.cn), advised by Xu Zhao.
+This research project is the PRP research project of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). I did this project at [VisionLab](http://www.visionlab.sjtu.edu.cn), advised by [Xu Zhao](http://www.automation.sjtu.edu.cn/en/ShowPeople.aspx?info_id=505&info_lb=326&flag=224).
 
 We developed a system that automatically generate a 3D human model with pose and shape from a single RGB image. We then used this technique to develop an application: automatically measure the BWH of a person from a photo. Detailed procedure is:
 
