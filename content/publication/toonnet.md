@@ -18,7 +18,7 @@ authors = ["Yanqing Zhou", "**Yongxu Jin**", "Anqi Luo", "Szeyu Chan", "Xiangyun
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper"
+publication = "ACM International Conference on Virtual Reality Continuum and Its Applications in Industry (**VRCAI 18**) (In Submission)"
 publication_short = ""
 
 # Abstract and optional shortened version.
