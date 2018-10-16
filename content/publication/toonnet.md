@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "papers/ToonNet.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
